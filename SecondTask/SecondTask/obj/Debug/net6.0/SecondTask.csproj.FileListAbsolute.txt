@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.deps.json
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.runtimeconfig.json
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.dll
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/bin/Debug/net6.0/SecondTask.pdb
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.dll
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/refint/SecondTask.dll
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.pdb
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/SecondTask.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/LabWork6/SecondTask/SecondTask/obj/Debug/net6.0/ref/SecondTask.dll

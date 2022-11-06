@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/bin/Debug/net6.0/ThirdTask
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/bin/Debug/net6.0/ThirdTask.deps.json
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/bin/Debug/net6.0/ThirdTask.runtimeconfig.json
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/bin/Debug/net6.0/ThirdTask.dll
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/bin/Debug/net6.0/ThirdTask.pdb
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.dll
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/refint/ThirdTask.dll
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.pdb
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ThirdTask.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/LabWork6/ThirdTask/ThirdTask/obj/Debug/net6.0/ref/ThirdTask.dll
